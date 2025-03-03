@@ -8,7 +8,7 @@ const products = [
     name: 'Wireless Headphones',
     description: 'Premium noise-cancelling wireless headphones with 30-hour battery life.',
     price: 199.99,
-    image: '/lovable-uploads/958f145f-76e0-468d-a360-a16f4d4f35bf.png'
+    image: '/lovable-uploads/8f87ce71-328d-4653-ba39-f749e3ffe5e5.png'
   },
   {
     id: 2,
