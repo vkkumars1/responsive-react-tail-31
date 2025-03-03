@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { ShoppingCart, ArrowRight } from 'lucide-react';
 
@@ -9,7 +8,7 @@ const products = [
     name: 'Wireless Headphones',
     description: 'Premium noise-cancelling wireless headphones with 30-hour battery life.',
     price: 199.99,
-    image: '/lovable-uploads/17790fae-3cef-4b03-9702-cc132064b400.png'
+    image: '/lovable-uploads/958f145f-76e0-468d-a360-a16f4d4f35bf.png'
   },
   {
     id: 2,
